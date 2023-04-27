@@ -1,0 +1,8 @@
+print("---------------Exercise_5_1---------------")
+print("---This Program will help you For + - * / ---")
+FirstNumber = int(input("First number : "))
+ScondNumber = int(input("Scond number : "))
+print("Result Addition       (+) =",FirstNumber + ScondNumber)
+print("Result Subtraction    (-) =",FirstNumber - ScondNumber)
+print("Result Multiplication (*) =",FirstNumber * ScondNumber)
+print("Result Division       (/) =",FirstNumber / ScondNumber)
